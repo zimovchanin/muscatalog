@@ -1,0 +1,31 @@
+# Byte-compiled / Optimized Python specific
+__pycache__/
+*$py.class
+*.pyc
+
+# Code editors
+**/.idea
+**/.vscode
+**/.webassets-cache
+**/.DS_Store
+**/.vscode
+
+# Vim session
+Session.vim
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+**/virtualenv
+
+*.ps1
+Makefile
+Dockerfile
+docker-compose.yml
+
+/db.sqlite3
