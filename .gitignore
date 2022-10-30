@@ -23,12 +23,6 @@ env.bak/
 venv.bak/
 **/virtualenv
 
-# Docker
-*.ps1
-Makefile
-Dockerfile
-docker-compose.yml
-
 # DB
 /db.sqlite3
 
